@@ -104,6 +104,14 @@ Feel free to:
 
 ---
 
+## 📬 Contact
+
+💼 LinkedIn: https://www.linkedin.com/in/piyush-verma-11041a297/
+
+🌐 Portfolio: https://piyushverma246.github.io/Portfolio/
+
+---
+
 ## ⭐ Acknowledgement
 
 This project marks the beginning of my journey into web development and reminds me that **every expert was once a beginner**.
