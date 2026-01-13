@@ -58,6 +58,24 @@ The main goals of this project were:
 
 ---
 
+## 📅 Project Timeline
+
+- 🗓️ **Started:** 2023  
+- 🗓️ **Completed:** 2023  
+- 🗓️ **Deployed later as a full website**
+
+---
+
+## 📌 Key Learnings
+
+- Clean and structured HTML writing  
+- CSS layouts, spacing, and responsiveness  
+- JavaScript basics and interactions  
+- UI/UX fundamentals  
+- Problem-solving and debugging  
+
+---
+
 ## 📂 Project Structure
 
 ```bash
@@ -73,3 +91,21 @@ RS-Photography-Edit/
 │   ├── videos/
 │   └── icons/
 └── README.md
+```
+---
+## 🤝 Contribution
+
+This repository is mainly for **learning and reference purposes**.
+
+Feel free to:
+- Fork the repository  
+- Raise issues  
+- Submit pull requests  
+
+---
+
+## ⭐ Acknowledgement
+
+This project marks the beginning of my journey into web development and reminds me that **every expert was once a beginner**.
+
+If you find this project inspiring, consider giving it a ⭐!
