@@ -3,6 +3,7 @@
 🔗 Live Website: https://rs-photography-edit.vercel.app/
 
 💻 GitHub Repository: You’re here
+<br>
 
 🚀 About the Project
 
@@ -12,6 +13,7 @@ This project was created from scratch, with every line of code handwritten, and 
 It represents my foundational learning phase and marks the beginning of my journey into frontend development.
 
 The website is designed as a creative resource platform for photographers, designers, editors, and content creators.
+
 
 🎯 Project Purpose
 
@@ -26,6 +28,7 @@ Improve styling, responsiveness, and consistency
 Build a complete website without shortcuts
 
 This project focuses more on learning and fundamentals rather than perfection.
+
 
 🌐 Website Features
 
@@ -44,18 +47,20 @@ A conceptual pricing model for premium creative resources.
 ✨ UI/UX-Oriented Design
 Clean layout, simple navigation, and user-focused interface.
 
+
 🛠️ Tech Stack
 
 HTML5
 
 CSS3
 
-JavaScript (Vanilla)
+JavaScript
 
 ❌ No frameworks
 ❌ No libraries
 ❌ No AI tools
 ✅ 100% handwritten code
+
 
 📂 Project Structure
 RS-Photography-Edit/
@@ -74,6 +79,7 @@ RS-Photography-Edit/
 
 (Structure may vary slightly depending on deployment)
 
+
 📅 Project Timeline
 
 🗓️ Started: 2023
@@ -81,6 +87,7 @@ RS-Photography-Edit/
 🗓️ Completed: 2023
 
 🗓️ Deployed Later As Full Website
+
 
 📌 Key Learnings
 
@@ -94,19 +101,6 @@ Problem-solving through trial and error
 
 Building confidence by completing a full project
 
-🚧 Future Enhancements (Planned at That Time)
-
-Login & Create Account Pages
-
-Contact Us Page
-
-Help Center
-
-Pricing Page
-
-About Us Page
-
-(Some ideas were conceptual and part of the learning roadmap.)
 
 🤝 Contribution
 
@@ -121,13 +115,15 @@ Create issues
 
 Submit pull requests
 
+
 📬 Contact
 
 If you’d like to connect or discuss this project:
 
-💼 LinkedIn: [Add your LinkedIn profile link]
+💼 LinkedIn: https://www.linkedin.com/in/piyush-verma-11041a297/
 
-🌐 Portfolio: [Add if available]
+🌐 Portfolio: https://piyushverma246.github.io/Portfolio/
+
 
 ⭐ Acknowledgement
 
